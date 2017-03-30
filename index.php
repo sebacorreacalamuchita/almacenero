@@ -1,6 +1,7 @@
 <?php
 include "controlador.php";
 
+
 echo "<h1>El Almacén</h1>";
 $vendedor = new controlador;
 echo "<h3>creado objeto controlador</h3>";
